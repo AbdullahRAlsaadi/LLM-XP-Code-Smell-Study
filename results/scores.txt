@@ -1,0 +1,36 @@
+
+ChatGPT Zero-shot
+  Smell                   TP  FP  FN       P       R      F1
+  Long Method              3   1   0   75.0%  100.0%   85.7%
+  Large Class              3   2   0   60.0%  100.0%   75.0%
+  Long Parameter List      2   0   1  100.0%   66.7%   80.0%
+  Duplicate Code           3   1   0   75.0%  100.0%   85.7%
+  Feature Envy             3   0   0  100.0%  100.0%  100.0%
+  Macro average                        82.0%   93.3%   85.3%
+
+ChatGPT Two-shot
+  Smell                   TP  FP  FN       P       R      F1
+  Long Method              3   1   0   75.0%  100.0%   85.7%
+  Large Class              3   2   0   60.0%  100.0%   75.0%
+  Long Parameter List      3   0   0  100.0%  100.0%  100.0%
+  Duplicate Code           3   0   0  100.0%  100.0%  100.0%
+  Feature Envy             3   0   0  100.0%  100.0%  100.0%
+  Macro average                        87.0%  100.0%   92.1%
+
+ChatGPT Role-based
+  Smell                   TP  FP  FN       P       R      F1
+  Long Method              3   1   0   75.0%  100.0%   85.7%
+  Large Class              3   2   0   60.0%  100.0%   75.0%
+  Long Parameter List      3   0   0  100.0%  100.0%  100.0%
+  Duplicate Code           3   1   0   75.0%  100.0%   85.7%
+  Feature Envy             3   0   0  100.0%  100.0%  100.0%
+  Macro average                        82.0%  100.0%   89.3%
+
+Pylint 4.1.2
+  Smell                   TP  FP  FN       P       R      F1
+  Long Method              3   0   0  100.0%  100.0%  100.0%
+  Large Class              1   2   2   33.3%   33.3%   33.3%
+  Long Parameter List      2   0   1  100.0%   66.7%   80.0%
+  Duplicate Code           0   0   3    0.0%    0.0%    0.0%
+  Feature Envy             0   0   3    0.0%    0.0%    0.0%
+  Macro average                        46.7%   40.0%   42.7%

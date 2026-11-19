@@ -1,0 +1,40 @@
+************* Module item_03
+dataset/item_03.py:1:0: R0913: Too many arguments (8/5) (too-many-arguments)
+dataset/item_03.py:1:0: R0917: Too many positional arguments (8/5) (too-many-positional-arguments)
+************* Module item_05
+dataset/item_05.py:1:0: R0914: Too many local variables (22/15) (too-many-locals)
+dataset/item_05.py:1:0: R0912: Too many branches (30/12) (too-many-branches)
+dataset/item_05.py:1:0: R0915: Too many statements (97/50) (too-many-statements)
+************* Module item_06
+dataset/item_06.py:80:4: R0914: Too many local variables (19/15) (too-many-locals)
+dataset/item_06.py:80:4: R0912: Too many branches (27/12) (too-many-branches)
+dataset/item_06.py:80:4: R0915: Too many statements (80/50) (too-many-statements)
+************* Module item_07
+dataset/item_07.py:1:0: R0902: Too many instance attributes (28/7) (too-many-instance-attributes)
+dataset/item_07.py:37:4: R0913: Too many arguments (13/5) (too-many-arguments)
+dataset/item_07.py:37:4: R0917: Too many positional arguments (13/5) (too-many-positional-arguments)
+************* Module item_09
+dataset/item_09.py:1:0: R0913: Too many arguments (8/5) (too-many-arguments)
+dataset/item_09.py:1:0: R0917: Too many positional arguments (8/5) (too-many-positional-arguments)
+dataset/item_09.py:1:0: R0914: Too many local variables (19/15) (too-many-locals)
+************* Module item_12
+dataset/item_12.py:1:0: R0902: Too many instance attributes (33/7) (too-many-instance-attributes)
+dataset/item_12.py:136:4: R0914: Too many local variables (16/15) (too-many-locals)
+dataset/item_12.py:1:0: R0904: Too many public methods (33/20) (too-many-public-methods)
+************* Module item_19
+dataset/item_19.py:1:0: R0902: Too many instance attributes (16/7) (too-many-instance-attributes)
+dataset/item_19.py:106:4: R0912: Too many branches (21/12) (too-many-branches)
+dataset/item_19.py:106:4: R0915: Too many statements (55/50) (too-many-statements)
+dataset/item_19.py:172:4: R0912: Too many branches (28/12) (too-many-branches)
+dataset/item_19.py:172:4: R0915: Too many statements (59/50) (too-many-statements)
+dataset/item_19.py:463:4: R0912: Too many branches (15/12) (too-many-branches)
+dataset/item_19.py:560:4: R0912: Too many branches (13/12) (too-many-branches)
+************* Module item_20
+dataset/item_20.py:1:0: R0912: Too many branches (14/12) (too-many-branches)
+dataset/item_20.py:1:0: R0915: Too many statements (88/50) (too-many-statements)
+************* Module item_25
+dataset/item_25.py:1:0: R0913: Too many arguments (23/5) (too-many-arguments)
+dataset/item_25.py:1:0: R0917: Too many positional arguments (23/5) (too-many-positional-arguments)
+dataset/item_25.py:1:0: R0914: Too many local variables (47/15) (too-many-locals)
+dataset/item_25.py:1:0: R0912: Too many branches (28/12) (too-many-branches)
+dataset/item_25.py:1:0: R0915: Too many statements (100/50) (too-many-statements)

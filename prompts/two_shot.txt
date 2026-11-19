@@ -1,0 +1,18 @@
+Identify which of these code smells the Python code contains:
+Long Method, Large Class, Long Parameter List, Duplicate Code, Feature Envy.
+
+Example 1:
+def send_invoice(name, email, phone, city, street, zip_code, amount, currency):
+    print(name, email, amount, currency)
+SMELLS: Long Parameter List
+
+Example 2:
+def is_even(number):
+    return number % 2 == 0
+SMELLS: NONE
+
+Now analyze this code. Answer ONLY in this exact format, with no extra text:
+SMELLS: <comma-separated list of detected smells, or NONE>
+
+Code:
+{CODE}

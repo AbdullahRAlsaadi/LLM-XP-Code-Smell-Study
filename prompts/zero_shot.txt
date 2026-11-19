@@ -1,0 +1,8 @@
+Analyze the following Python code and identify which of these code smells it contains:
+Long Method, Large Class, Long Parameter List, Duplicate Code, Feature Envy.
+
+Answer ONLY in this exact format, with no extra text:
+SMELLS: <comma-separated list of detected smells, or NONE>
+
+Code:
+{CODE}

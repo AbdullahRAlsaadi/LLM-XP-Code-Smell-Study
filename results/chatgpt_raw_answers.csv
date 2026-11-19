@@ -1,0 +1,76 @@
+strategy,file,answer
+Zero-shot,item_01.py,SMELLS: NONE
+Zero-shot,item_02.py,"SMELLS: Long Parameter List, Feature Envy"
+Zero-shot,item_03.py,"SMELLS: Long Method, Long Parameter Lis"
+Zero-shot,item_04.py,SMELLS: Duplicate Code
+Zero-shot,item_05.py,"SMELLS: Long Method, Long Parameter List"
+Zero-shot,item_06.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Zero-shot,item_07.py,"SMELLS: Long Method, Large Class, Long Parameter List, Duplicate Code"
+Zero-shot,item_08.py,SMELLS: Duplicate Code
+Zero-shot,item_09.py,"SMELLS: Long Method, Long Parameter List, Duplicate Code"
+Zero-shot,item_10.py,SMELLS: Duplicate Code
+Zero-shot,item_11.py,SMELLS: NONE
+Zero-shot,item_12.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Zero-shot,item_13.py,SMELLS: NONE
+Zero-shot,item_14.py,SMELLS: Feature Envy
+Zero-shot,item_15.py,SMELLS: NONE
+Zero-shot,item_16.py,"SMELLS: Long Method, Long Parameter List"
+Zero-shot,item_17.py,SMELLS: Long Method
+Zero-shot,item_18.py,SMELLS: Feature Envy
+Zero-shot,item_19.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Zero-shot,item_20.py,"SMELLS: Long Method, Duplicate Code"
+Zero-shot,item_21.py,SMELLS: NONE
+Zero-shot,item_22.py,SMELLS: NONE
+Zero-shot,item_23.py,SMELLS: Duplicate Code
+Zero-shot,item_24.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Zero-shot,item_25.py,"SMELLS: Long Method, Long Parameter List"
+Two-shot,item_01.py,SMELLS: NONE
+Two-shot,item_02.py,SMELLS: Feature Envy
+Two-shot,item_03.py,"SMELLS: Long Method, Long Parameter List, Duplicate Code"
+Two-shot,item_04.py,SMELLS: Duplicate Code
+Two-shot,item_05.py,SMELLS: Long Method
+Two-shot,item_06.py,"SMELLS: Long Method, Large Class"
+Two-shot,item_07.py,"SMELLS: Long Method, Large Class, Long Parameter List, Duplicate Code"
+Two-shot,item_08.py,SMELLS: Duplicate Code
+Two-shot,item_09.py,"SMELLS: Long Method, Long Parameter List, Duplicate Code"
+Two-shot,item_10.py,SMELLS: NONE
+Two-shot,item_11.py,SMELLS: NONE
+Two-shot,item_12.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Two-shot,item_13.py,SMELLS: NONE
+Two-shot,item_14.py,SMELLS: Feature Envy
+Two-shot,item_15.py,SMELLS: NONE
+Two-shot,item_16.py,"SMELLS: Long Method, Long Parameter List"
+Two-shot,item_17.py,SMELLS: Long Method
+Two-shot,item_18.py,SMELLS: Feature Envy
+Two-shot,item_19.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Two-shot,item_20.py,"SMELLS: Long Method, Duplicate Code"
+Two-shot,item_21.py,SMELLS: NONE
+Two-shot,item_22.py,SMELLS: NONE
+Two-shot,item_23.py,SMELLS: Duplicate Code
+Two-shot,item_24.py,"SMELLS: Long Method, Large Class"
+Two-shot,item_25.py,"SMELLS: Long Method, Long Parameter List"
+Role-based,item_01.py,SMELLS: NONE
+Role-based,item_02.py,"SMELLS: Long Parameter List, Feature Envy"
+Role-based,item_03.py,"SMELLS: Long Method, Long Parameter List"
+Role-based,item_04.py,SMELLS: Duplicate Code
+Role-based,item_05.py,"SMELLS: Long Method, Long Parameter List"
+Role-based,item_06.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Role-based,item_07.py,"SMELLS: Long Method, Large Class, Long Parameter List, Duplicate Code"
+Role-based,item_08.py,SMELLS: Duplicate Code
+Role-based,item_09.py,"SMELLS: Long Method, Long Parameter List, Duplicate Code"
+Role-based,item_10.py,SMELLS: Duplicate Code
+Role-based,item_11.py,SMELLS: NONE
+Role-based,item_12.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Role-based,item_13.py,SMELLS: NONE
+Role-based,item_14.py,SMELLS: Feature Envy
+Role-based,item_15.py,SMELLS: NONE
+Role-based,item_16.py,"SMELLS: Long Method, Long Parameter List, Duplicate Code"
+Role-based,item_17.py,SMELLS: Long Method
+Role-based,item_18.py,SMELLS: Feature Envy
+Role-based,item_19.py,"SMELLS: Long Method, Large Class, Duplicate Code"
+Role-based,item_20.py,"SMELLS: Long Method, Duplicate Code"
+Role-based,item_21.py,SMELLS: Duplicate Code
+Role-based,item_22.py,SMELLS: NONE
+Role-based,item_23.py,SMELLS: Duplicate Code
+Role-based,item_24.py,"SMELLS: Long Method, Large Class"
+Role-based,item_25.py,"SMELLS: Long Method, Long Parameter List"

@@ -1,0 +1,11 @@
+You are a senior software engineer in an Extreme Programming (XP) team.
+The tests are passing, and you are now in the Refactoring step of the
+Red-Green-Refactor cycle. Review the following Python code and identify which
+of these code smells it contains:
+Long Method, Large Class, Long Parameter List, Duplicate Code, Feature Envy.
+
+Answer ONLY in this exact format, with no extra text:
+SMELLS: <comma-separated list of detected smells, or NONE>
+
+Code:
+{CODE}

@@ -1,0 +1,26 @@
+file,target_smell,label,source,project,revision,original_path,original_line,pylint_messages
+item_01.py,NONE,0,Author-seeded (AI-assisted),,,,,
+item_02.py,Feature Envy,1,Author-seeded (AI-assisted),,,,,
+item_03.py,Long Parameter List,1,Pysmell validation set (Chen et al. 2016),fabric,11a26062da33713d1cbbb4cfe67f141661cfbf5a,fabric/tasks.py,213,R0913;R0917
+item_04.py,Duplicate Code,1,Author-seeded (AI-assisted),,,,,
+item_05.py,Long Method,1,Pysmell validation set (Chen et al. 2016),boto,2.38.0,boto/connection.py,886,R0912;R0914;R0915
+item_06.py,Large Class,1,Pysmell validation set (Chen et al. 2016),aws-cli,94574d5a466d064c0829b1562bc191374d6546de,awscli/customizations/emr/createcluster.py,33,R0912;R0914;R0915
+item_07.py,Large Class,0,Pysmell validation set (Chen et al. 2016),celery,6066a45700440233b1a8b0db9e44b792b2ccb13e,celery/worker/consumer.py,129,R0902;R0913;R0917
+item_08.py,Duplicate Code,1,Author-seeded (AI-assisted),,,,,
+item_09.py,Long Parameter List,1,Pysmell validation set (Chen et al. 2016),fabric,599f92a5b92318a82c9d0ae7f302288c2b584b03,fabric/sftp.py,232,R0913;R0914;R0917
+item_10.py,NONE,0,Author-seeded (AI-assisted),,,,,
+item_11.py,Long Parameter List,0,Pysmell validation set (Chen et al. 2016),httpie,ed08ab133eab5991fe46db011e6e04f3230f0026,httpie/output/streams.py,227,
+item_12.py,Large Class,0,Pysmell validation set (Chen et al. 2016),newspaper,c56429322c142ac2f81125ea3578ae0d19eaca8c,newspaper/article.py,33,R0902;R0904;R0914
+item_13.py,NONE,0,Author-seeded (AI-assisted),,,,,
+item_14.py,Feature Envy,1,Author-seeded (AI-assisted),,,,,
+item_15.py,Long Method,0,Pysmell validation set (Chen et al. 2016),boto,2.38.0,boto/auth.py,579,
+item_16.py,Long Parameter List,1,Pysmell validation set (Chen et al. 2016),boto,2.38.0,boto/connection.py,664,
+item_17.py,Long Method,0,Pysmell validation set (Chen et al. 2016),bottle,b24483e587860e46d96961ab5d1d660a427193e3,bottle.py,924,
+item_18.py,Feature Envy,1,Author-seeded (AI-assisted),,,,,
+item_19.py,Large Class,1,Pysmell validation set (Chen et al. 2016),bup,febb15487a47669374810622481ead399728d861,lib/bup/metadata.py,195,R0902;R0912;R0915
+item_20.py,Long Method,1,Pysmell validation set (Chen et al. 2016),glances,8d1a741e261de8b1000627234b0b8a3597f8fde9,glances/core/glances_config.py,105,R0912;R0915
+item_21.py,Long Parameter List,0,Pysmell validation set (Chen et al. 2016),boto,2.38.0,boto/auth.py,132,
+item_22.py,NONE,0,Author-seeded (AI-assisted),,,,,
+item_23.py,Duplicate Code,1,Author-seeded (AI-assisted),,,,,
+item_24.py,Large Class,1,Pysmell validation set (Chen et al. 2016),aws-cli,957a6ffbf630964b2c7f323629b15a3fc00012da,awscli/customizations/codedeploy/push.py,32,
+item_25.py,Long Method,1,Pysmell validation set (Chen et al. 2016),seaborn,29b61c37a3fd4a4a31e47881ff735e329be22dd3,seaborn/axisgrid.py,218,R0912;R0913;R0914;R0915;R0917
